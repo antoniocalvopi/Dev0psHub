@@ -38,11 +38,9 @@ Thumbs.db
 dist/
 build/
 
-# VS Code settings (si usas VS Code)
+# VS Code settings
 .vscode/
 
-# Editor directories (si usas otro editor)
-.idea/
 
-# Otros archivos que podrías querer ignorar (si usas algún sistema de configuración, por ejemplo, env)
+# Otros fichero
 .envrc
