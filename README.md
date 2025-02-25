@@ -1,2 +1,4 @@
 # Dev0psHub
-Dev0psHub pretende evolucionar a una plataforma open source todo en uno para equipos pequeños, pensando en facilitar la gestión de proyectos de desarrollo. Esta proyecto nace y forma parte de una entrega práctica de la Asignatura Plataformas, Frameworks y Tendencias digitales del grado de Ingeniería en tecnologías webs de la UEX.
+[![Instalar](https://img.shields.io/badge/Instalar-Click_Here-blue)]()
+[![Star](https://img.shields.io/github/stars/antoniocalvopi/Dev0psHub?style=social)](https://github.com/antoniocalvopi/Dev0psHub)
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
